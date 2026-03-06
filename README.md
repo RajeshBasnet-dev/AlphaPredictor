@@ -1,5 +1,6 @@
 # AlphaPredictor
----<img width="1321" height="603" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/deab1c42-618c-4826-9c71-334d018009ef" />
+
+<img width="1321" height="603" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/d5277b26-ec9d-4f92-a7a8-950604964ce9" />
 
 AlphaPredictor is a stock analytics web app built with **Streamlit**. It downloads 5 years of historical price data, engineers return-based features, trains three machine learning models, and predicts the next-day closing price — all with an interactive dashboard.
 
